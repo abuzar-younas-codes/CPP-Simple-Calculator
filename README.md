@@ -1,18 +1,41 @@
-# Simple C++ Calculator 🧮
+🚀 Enhanced C++ Command-Line Calculator
+A clean, user-friendly command-line calculator built with C++. This project demonstrates basic programming concepts like loops, switch-case logic, and conditional error handling.
 
-A simple command-line calculator built using C++. This project is ideal for beginners to understand basic input/output and switch-case logic in C++.
+✨ Key Improvements (New Version)
+🔄 Continuous Execution: Added a while loop so you can perform multiple calculations without restarting the program.
 
-## Features
-* Addition (+)
-* Subtraction (-)
-* Multiplication (*)
-* Division (/) with zero-check error handling
+🚪 Easy Exit: Added an 'x' key option to safely close the calculator.
 
-## How to Run
-1. Download the `Calculator.cpp` file.
-2. Open it in **Dev C++** or any C++ IDE.
-3. Compile and Run (F11 in Dev C++).
-4. Enter the operator and two numbers to see the result.
+🛠️ Error Handling: Includes a check for "Division by Zero" to prevent program crashes.
 
-## Author
-Developed by [Abuzar Younas]
+🧹 Clean UI: Improved console output formatting for better readability.
+
+🛠️ Built With
+Language: C++
+
+Logic: Switch-case statements & While loops
+
+Tools: Works on Dev C++, VS Code, and any standard C++ compiler.
+
+<img width="776" height="382" alt="cpp screen shot" src="https://github.com/user-attachments/assets/1b3b3504-8378-4092-b0ba-ddf0be89e441" />
+
+🚀 How to Run
+Clone or Download: Copy the Calculator.cpp file to your computer.
+
+Compile: Open the file in your IDE (e.g., Dev C++) and press F11.
+
+Use: * Choose an operator: +, -, *, /
+
+Enter two numbers.
+
+Type x when you want to quit the program.
+
+📸 Sample Output
+Plaintext
+--- My Simple C++ Calculator ---
+Enter operator (+, -, *, /) or 'x' to exit: +
+Enter two numbers: 10 20
+Result: 30
+-----------------------------
+👤 Author
+Developed by [Abuzar Younas] Feel free to star ⭐ this repository if you find it helpful!
